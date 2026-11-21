@@ -1,0 +1,4 @@
+input /equip hands アルルナグローブ+1
+input /equip legs ナティラトラウザ
+input /equip feet メガナダジャンボ+1
+

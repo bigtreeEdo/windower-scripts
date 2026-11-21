@@ -1,0 +1,12 @@
+input /equip ring1 迅雷の指輪
+input /equip head ヘルクリアヘルム
+input /equip body ＰＬベスト+2
+input /equip hands アルルナグローブ+1
+input /equip legs ヘルクリアトラウザ 2
+input /equip feet ヘルクリアブーツ 2
+input /equip neck シャドウゴルゲット
+input /equip waist ワニオンベルト
+input /equip back レタリスマント
+input /equip ear1 胡蝶のイヤリング
+input /equip ear2 ジュピターパール
+input /equip ring2 迅雷の指輪

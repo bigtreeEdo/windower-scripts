@@ -1,0 +1,5 @@
+input /equip head
+input /equip body ケペルジャケット
+input /equip hands アルルナグローブ+1
+input /equip legs ヘルクリアトラウザ
+input /equip feet ケプリゲマッシュ

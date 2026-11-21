@@ -1,0 +1,16 @@
+bind ^escape input /echo ## end STEAL ##; alias magic /; alias heal /; unbind ^escape;
+alias magic input /ja ‚Ê‚·‚Þ <t>; wait 60; 
+ 
+input /echo ## start ZENI / Ctrl+Esc to exit ## 
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;

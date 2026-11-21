@@ -1,0 +1,10 @@
+bind ^escape input /echo ## end ZENI ##; alias magic /; alias heal /; unbind ^escape;
+alias magic input /equip ammo èbâeî¬; input /item çÇë¨èbé äÌ <t>; wait 35; 
+ 
+input /echo ## start ZENI / Ctrl+Esc to exit ## 
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;

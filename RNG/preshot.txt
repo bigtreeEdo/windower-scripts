@@ -1,0 +1,6 @@
+input /equip head ＳＹガペット+2
+input /equip body ＡＲジャーキン+1
+input /equip hands マニボゾグローブ
+input /equip legs ＡＲブラッカエ+1
+input /equip feet アルケソ\ックス
+input /equip waist インパルスベルト

@@ -1,0 +1,15 @@
+wait 0.5
+input /equip main アーカIV
+input /equip sub アチャクグリップ
+input /equip ammo マナアムプラ
+input /equip head ＯＲキャップ+2
+input /equip body ヘカカラシリス
+input /equip hands ヤオヨトルグローブ
+input /equip legs ボクワススロップス
+input /equip feet ウンバニブーツ
+input /equip neck オルンミラトルク
+input /equip back テンパードケープ
+input /equip ear1 ノーヴィアピアス
+input /equip ear2 ラウンデルピアス
+input /equip ring1 メディアトルリング
+input /equip ring2 プロリクスリング

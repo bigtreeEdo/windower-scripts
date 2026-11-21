@@ -1,0 +1,12 @@
+input /equip head ヘルクリアヘルム 2
+input /equip body ヘルクリアベスト 2
+input /equip hands メガナダグローブ+2
+input /equip legs ヘルクリアトラウザ 2
+input /equip feet ヘルクリアブーツ 2
+input /equip neck ベーテルペンダント
+input /equip waist エスカンストーン
+input /equip back トゥタティスケープ
+input /equip ear1 胡蝶のイヤリング
+input /equip ear2 ディグニタリピアス
+input /equip ring1 メディアトルリング
+input /equip ring2 パーシスリング

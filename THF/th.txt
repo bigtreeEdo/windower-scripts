@@ -1,0 +1,2 @@
+input /equip hands ‚o‚cƒAƒ€ƒŒƒbƒg+1
+input /equip feet ‚q‚cƒv[ƒŒ[ƒk+2

@@ -1,0 +1,4 @@
+input /equip body ケペルジャケット
+input /equip hands ＳＹグロブレト+2
+input /equip legs ＳＹブラーグ+2
+input /equip feet ケプリゲマッシュ

@@ -1,0 +1,38 @@
+bind ^escape input /echo ## end SKILL ##; alias magic /; alias heal /; unbind ^escape;
+alias magic input /ma 炎のスレノディ <t>; wait 4; input /ma 氷のスレノディ <t>; wait 4; input /ma 風のスレノディ <t>; wait 4; input /ma 土のスレノディ <t>; wait 4; input /ma 雷のスレノディ <t>; wait 4; input /ma 水のスレノディ <t>; wait 4; 
+alias heal input /heal; wait 180; input /heal; wait 3;
+ 
+input /echo ## start SKILL / Ctrl+Esc to exit ## 
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;
+magic;magic;magic;magic;magic;magic;magic;magic;magic;magic;

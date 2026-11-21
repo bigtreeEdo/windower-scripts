@@ -1,0 +1,6 @@
+input /equip main ヌーメンスタッフ
+input /equip head ＯＲキャップ+2
+input /equip body ＯＲブリオー+2
+input /equip hands ＯＲミトン+2
+input /equip legs ＯＲパンタロン+2
+input /equip feet ＯＲダックビル+2
